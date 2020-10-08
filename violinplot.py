@@ -109,3 +109,4 @@ obj = DrawViolinplot(r=1, c=2)
 obj.set_one(all_data1, xaxis_name, n=1, title='1')
 obj.set_one(all_data2, xaxis_name, n=2, title='2')
 obj.draw()
+
