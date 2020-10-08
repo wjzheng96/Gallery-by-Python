@@ -102,3 +102,4 @@ if __name__ == '__main__':
         print('Please install gensim, sklearn, numpy, matplotlib, and scipy to show embeddings.')
         print(ex)
 
+        
