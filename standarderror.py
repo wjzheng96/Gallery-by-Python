@@ -43,3 +43,4 @@ plt.yticks(np.linspace(0,120 ,7),y_val,fontproperties = 'Times New Roman', size 
 plt.savefig('test.png')
 plt.show()
 
+
